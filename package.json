@@ -1,0 +1,18 @@
+{
+  "name": "diksha",
+  "version": "0.0.1",
+  "description": "i rock!",
+  "main": "file1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diksha-pandey/diksha.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/diksha-pandey/diksha/issues"
+  }
+}
